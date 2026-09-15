@@ -7,7 +7,7 @@ public class Main
         String actor1, actor2, actor3, actor4;
         String role1, role2, role3, role4;
         title = "The Hunter"; director = "Jane Campion"; year = "(1993)";
-        actor1 = "Holly Hunter"; actor2 = "Harvey Victim"; actor3 = "Sam Penguin"; actor4 = "Anna Birdeater";
+        actor1 = "Holly Hunter"; actor2 = "Harvey Victim"; actor3 = "Sam Volvo"; actor4 = "Anna Birdeater";
         role1 = "Lexus"; role2 = "Baines"; role3 = "Stewart"; role4 = "Flora"; 
         
         System.out.println(title + year + "\nA " + director + " film.\n\n"
