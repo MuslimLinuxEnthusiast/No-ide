@@ -1,4 +1,4 @@
-//this is the first iteration of the SecondTest.java
+//this is the first iteration of SecondTest.java
 
 public class Main
 {
